@@ -1,0 +1,25 @@
+body
+{
+    font-family: Verdana;
+    color: white;
+    background: black;
+}
+ 
+h1
+{
+    text-align: center;
+    padding: 18px;
+    background: blue;
+}
+
+.itl
+{
+    font-size: 2em;
+    background: orange;
+}
+
+p.parrafo2
+{
+    background: green;
+    font-size: 20px;
+}

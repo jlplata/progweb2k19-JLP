@@ -1,0 +1,29 @@
+div
+{
+    width: 100px;
+    height: 100px;
+    background:  #2980b9;
+    color: white;
+    font-size: 30px;
+    float: left;
+    margin:  9px;
+    border-radius: 50px;
+}
+
+/*.caja
+{
+    position: fixed;
+    top       : 0px ;
+    bottom    : 0px;
+    right     : 0px;
+    left      : 200px;
+}*/
+
+
+img
+{
+    width: 400px;
+    float: left;
+    margin: 10px;
+
+}

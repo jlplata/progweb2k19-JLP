@@ -1,0 +1,29 @@
+body
+{
+    background: #ecf0f1;
+}
+
+h1
+{
+    color        : #34495e;
+    text-align   : center;
+    background   : #ecf0f1;
+    font-family  : tahoma;
+    border       : solid 1px #FF0000;
+    padding      : 4px;
+    margin-left  : 50px;
+    margin-right : 50px;
+    border-radius: 60px;
+}
+label
+{
+    display: block;
+}
+p
+{
+    color : #34495e;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: georgia;
+    text-align: justify;
+}

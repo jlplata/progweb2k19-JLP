@@ -1,0 +1,22 @@
+h6
+{
+    font-size : 100px;
+    background: #546E7A;
+    margin    : 1cm;
+    width     : 70%;
+}
+
+body
+{
+    width: 90%;
+}
+
+p
+{
+    font-size: 40px;
+}
+
+a
+{
+    font-size: 1em;
+}

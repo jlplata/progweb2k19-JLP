@@ -1,0 +1,17 @@
+body
+{
+    /*    background : #c7ecee;*/
+    background       : url(../imgs/pardd.jpg);
+    background-repeat: repeat;
+    color: black;
+   
+
+        background       : #808080; /* fallback for old browsers */
+        background       : -webkit-linear-gradient(to right, rgba(128, 128, 128,.7), rgba(63, 173, 168,.7)),url(../imgs/07.jpg); /* Chrome 10-25, Safari 5.1-6 */
+        background       : linear-gradient(to right, rgba(128, 128, 128,.7), rgb(63, 173, 168,.7)),url(../imgs/07.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*
+  background: -webkit-linear-gradient(to right, #000428, #004e92); 
+  background: linear-gradient(to right, #000428, #004e92);
+        */
+}
